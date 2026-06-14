@@ -16,11 +16,3 @@
 # Poems ol
 ## Myopia > myopia
 ## Limitations on Art > artlimitations
-
-# Test L1 Title ol
-
--- bold text test with unordered list
-stray text
-## bold text test > okay
-## L1 id expected to be l1id > l1id
-## test abc article > test-two
