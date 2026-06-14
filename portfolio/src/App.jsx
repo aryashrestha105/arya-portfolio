@@ -48,31 +48,8 @@ function App() {
           </Route>
         </Routes>
       </div>
-      {/* <Footer /> */}
     </Router>
   );
-
-  // return (
-  //   <Router>
-
-  //     <Redirect404Handler/>
-  
-  //     <div  style={{color:'#453c4a', backgroundColor: '#f5ebe6', minHeight: '100vh' }}>
-  //     <Header />
-
-  //     <Routes>
-  //       <Route path="/works" element={<PortfolioItems />} />
-  //       <Route path="/works/:articleId" element={<Article />} />
-  //       <Route path="/certifications" element={<Certifications />} />
-  //       <Route path="/contact" element={<Contact />} />
-  //       <Route path="/" element={<HomeContent></HomeContent>} />
-  //       <Route path="*" element={<Navigate to="/" />} />
-  //       <Route path="/works/*" element={<Navigate to="/" />} />
-  //     </Routes>
-  //     </div>
-  //     {/* <Footer /> */}
-  //   </Router>
-  // );
 }
 
 export default App;
